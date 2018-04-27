@@ -1,0 +1,54 @@
+body {
+  color: #FFFFFF;
+  background-color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 100%;
+  line-height: 1.666;
+}
+
+
+section {
+  padding: 50px 0px;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+}
+
+.big-title {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+/*  outline: 1px solid red;*/
+}
+
+.container-narrow {
+  width: 70%;
+/*  outline: 1px solid red;*/
+}
+
+
+
+
+
+
+.section-mixtapes {
+    background-color: #f1544b;
+}
+
+.section-mixtapes .container {
+    background-color: black;
+}
