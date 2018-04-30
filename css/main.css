@@ -22,6 +22,7 @@ h4,
 h5,
 h6 {
   font-weight: normal;
+  font-family: 'Rubik', sans-serif;
 }
 
 .big-title {
@@ -39,6 +40,50 @@ h6 {
   width: 70%;
 /*  outline: 1px solid red;*/
 }
+.container-small{
+  max-width: 860px;
+
+}
+.site-header ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.site-header ul li{
+  display: inline-block;
+  margin-right: 100px;
+}
+.site-header ul li:last-child{
+  margin-right: 0px;
+}
+.site-header a{
+  color: #fff;
+  text-decoration: none;
+  font-size: 0.875rem;
+  font-family: 'Roboto Mono', monospace;
+}.site-header a:hover{
+    color: #f1544b;
+}
+.site-header .logo .name{
+  display: none;
+}
+.site-header .logo{
+    margin-right: 100px;
+}
+.site-header .logo,
+.site-header  nav {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+
+
+
+.intro {
+    font-size: 1.2rem;
+    text-align: center;
+}
+
 
 
 
