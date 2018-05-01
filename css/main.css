@@ -6,7 +6,6 @@ body {
   line-height: 1.666;
 }
 
-
 section {
   padding: 50px 0px;
 }
@@ -40,10 +39,12 @@ h6 {
   width: 70%;
 /*  outline: 1px solid red;*/
 }
+
 .container-small{
   max-width: 860px;
 
 }
+
 .site-header ul{
   list-style: none;
   padding: 0;
@@ -77,23 +78,19 @@ h6 {
 }
 
 
-
-
 .intro {
     font-size: 1.2rem;
     text-align: center;
 }
 
 
-
-
-
-
-
 .section-mixtapes {
     background-color: #f1544b;
 }
-
 .section-mixtapes .container {
     background-color: black;
+}
+
+.site-footer {
+  background-color: #fff;
 }
